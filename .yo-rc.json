@@ -1,0 +1,9 @@
+{
+  "generator-donejs": {
+    "promptValues": {
+      "authorName": "Matthew Phillips",
+      "authorEmail": "matthew@matthewphillips.info",
+      "authorUrl": "https://donejs.com"
+    }
+  }
+}
