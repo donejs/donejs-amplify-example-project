@@ -1,5 +1,7 @@
 # donejs-amplify
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/donejs/donejs-amplify-example-project.svg)](https://greenkeeper.io/)
+
 Welcome to the donejs-amplify DoneJS application!
 
 ## Getting started
